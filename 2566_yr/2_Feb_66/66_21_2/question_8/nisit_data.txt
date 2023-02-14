@@ -1,0 +1,5 @@
+Code :6530200100 	Name :Naphop 	Surname :Khumchawna 	GPA :3.00
+Code :6530241221 	Name :Thawanrat 	Surname :Pitak 	GPA :3.55
+Code :6530242898 	Name :Pinmanus 	Surname :Sangmanee 	GPA :3.40
+Code :6530212111 	Name :Phatin 	Surname :Ratachai 	GPA :3.50
+Code :6530254698 	Name :Aek 	Surname :Pannya 	GPA :4.00
