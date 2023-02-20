@@ -5,10 +5,11 @@ int main(){
     float price ; 
 
     for (int i = 1 ; i <= 3 ; i ++){
-        printf("Please Input Product name : ");
+        printf("Please Input Product name : \n");
         scanf("%s",&product);
-        printf("Please Input Product Price : ");
+        printf("Please Input Product Price : \n");
         scanf("%f",&price);
+        puts("\n*******");
         // write file (append)
         fp = fopen("product.txt","a");
         fputs(product,fp);
