@@ -15,9 +15,7 @@ int main(){
         puts("PASS");
     }
     while (feof(fp) == 0){
-        fscanf(fp,"%d %f %s",&num,&price,&name);
-        price = price*(-1);
-        name[0] = ' ';
+        fscanf(fp,"%d-%f-%s",&num,&price,&name);
         total = num * price ; 
         printf("Name : %s\tNumber : %d\tPrice : %.2f\tTotal : %.2f\n",name,num,price,total);
     }
